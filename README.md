@@ -8,5 +8,3 @@ Provisioning a cloud-hosted Linux infrastructure to host a live web service. Thi
 - **Port:** 8080
 - **Deployment Type:** Manual provisioning demonstrating the Shared Responsibility Model
 
-### 📁 Verification
-Screenshots of the live terminal setup and the rendered webpage are located in the `/screenshots` directory of this repository.
